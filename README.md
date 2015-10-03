@@ -1,2 +1,9 @@
-This wraps up the installation of git-update so that it can be done via
-Homebrew
+# formulae #
+
+```
+brew tap gfontenot/formulae
+```
+
+## git-update ##
+
+See [git-update](https://github.com/gfontenot/git-update)
