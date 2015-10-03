@@ -2,7 +2,7 @@ require 'formula'
 
 class GitUpdate < Formula
   homepage 'https://github.com/gfontenot/git-update'
-  url 'https://github.com/gfontenot/git-update.git', :tag => '1.2'
+  url 'https://github.com/gfontenot/git-update.git', :tag => '1.3.0'
   head 'https://github.com/gfontenot/git-update.git'
 
   def install
