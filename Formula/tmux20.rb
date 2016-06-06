@@ -1,4 +1,4 @@
-class Tmux < Formula
+class Tmux20 < Formula
   desc "Terminal multiplexer"
   homepage "https://tmux.github.io/"
   url "https://github.com/tmux/tmux/releases/download/2.0/tmux-2.0.tar.gz"
