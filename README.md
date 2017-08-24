@@ -1,16 +1,11 @@
-# formulae #
+# formulae
 
 ```
 brew tap gfontenot/formulae
 ```
 
-## git-update ##
+This repo contains homebrew formulae for:
 
-See [git-update](https://github.com/gfontenot/git-update)
-
-## trelloparse ##
-
-See [trelloparse]. This is distributed as a pre-built binary in order to
-reduce compilation issues.
-
-[trelloparse]: https://github.com/jferris/trelloparse
+- [git-update](https://github.com/gfontenot/git-update)
+- [xcode-cli](https://github.com/gfontenot/xcode-cli)
+- [trelloparse](https://github.com/jferris/trelloparse)
